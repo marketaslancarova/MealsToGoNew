@@ -1,9 +1,9 @@
 import { View, Text, StyleSheet } from "react-native";
 
-export default function MapsScreen() {
+export default function LoginScreen() {
   return (
     <View style={styles.container}>
-      <Text>Mapa</Text>
+      <Text>Přihlášení</Text>
     </View>
   );
 }

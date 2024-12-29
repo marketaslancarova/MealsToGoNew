@@ -1,9 +1,9 @@
 import { View, Text, StyleSheet } from "react-native";
 
-export default function MapsScreen() {
+export default function SettingsScreen() {
   return (
     <View style={styles.container}>
-      <Text>Mapa</Text>
+      <Text>Nastavení</Text>
     </View>
   );
 }

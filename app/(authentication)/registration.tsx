@@ -1,9 +1,9 @@
 import { View, Text, StyleSheet } from "react-native";
 
-export default function MapsScreen() {
+export default function RegistrationScreen() {
   return (
     <View style={styles.container}>
-      <Text>Mapa</Text>
+      <Text>Registrace</Text>
     </View>
   );
 }
