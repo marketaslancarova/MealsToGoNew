@@ -1,6 +1,6 @@
 import { StyleSheet, Text } from 'react-native';
 
-export default function RestaurantsScreen() {
+export default function MapsScreen() {
   return (
     <Text>Restaurants</Text>
   );
